@@ -1,0 +1,64 @@
+
+body{
+	background-color: #4FE4F3 ;
+}
+
+button,a{
+	background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+h1{
+	color : #412EA2;
+	text-shadow: #113E5A ; 
+}
+
+#header {
+ width: 500px;
+ margin: auto;
+ text-align: center;
+}
+
+li{
+	list-style-position: center ;
+	color: grey;
+	margin: 0;
+	padding : 2px 300px 2px 50px;
+	list-style-type: circle;
+
+}
+
+ol{
+	font-size: 18px;
+	color: maroon;
+	border : 2px solid grey;
+	margin: 0;
+	border-radius: 10px;
+	padding : 2px 300px 2px 50px;
+
+}
+
+.choicesHovered {
+	background-color: white;
+}
+
+.choices {
+	cursor: pointer;
+}
+
+.correct {
+	color: #2ECC71;
+	font-weight: bold;
+}
+
+.wrong {
+	color: red;
+	text-decoration: blink;
+}

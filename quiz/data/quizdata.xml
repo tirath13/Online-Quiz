@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<quiz>
+   <title> General Knowledge</title>
+   <description> Test your GK about the Canada </description>
+   
+   <Questions>
+
+      <question>
+         <text> Canada's national language(s) is(are)?</text>
+         <choices correct='false'> French </choices>
+         <choices correct='false'> Dutch </choices>
+         <choices correct='true'> French and English</choices>
+         <choices correct='false'> English </choices>
+      </question>
+
+   <question>
+
+      <text> A "toonie" in Canada is a</text>
+      <choices correct='false'> T.V series </choices>
+      <choices correct='false'> Cartoon Character </choices>
+      <choices correct='true'> Two-dollar coin</choices>
+      <choices correct='false'> Vacation spot </choices>
+
+   </question>
+
+   <question>
+
+      <text> Canada has a land border with</text>
+      <choices correct='false'> Mexico </choices>
+      <choices correct='false'> Mexico and USA </choices>
+      <choices correct='true'> USA</choices>
+      <choices correct='false'> USA and Russia </choices>
+
+   </question>
+
+   <question>
+
+      <text> The official currency of Canada is the </text>
+      <choices correct='false'> Canadian Euro </choices>
+      <choices correct='false'> US Dollar </choices>
+      <choices correct='false'> Canadian Pound</choices>
+      <choices correct='true'> Canadian Dollar </choices>
+
+   </question>
+
+   <question>
+
+      <text> What is in the center of Canada's flag </text>
+      <choices correct='false'> Sword </choices>
+      <choices correct='false'> Cross </choices>
+      <choices correct='true'> Maple leaf</choices>
+      <choices correct='false'> Star </choices>
+
+   </question>
+
+   <question>
+
+      <text> Which is the national animal of Canada </text>
+      <choices correct='false'> Lion </choices>
+      <choices correct='false'> Jaguar </choices>
+      <choices correct='false'> Moose </choices>
+      <choices correct='true'> Beaver </choices>
+
+   </question>
+
+   <question>
+
+      <text> Which is the highest mountain in Canada</text>
+      <choices correct='false'> Moresby </choices>
+      <choices correct='true'> Logan </choices>
+      <choices correct='false'> Fairweather</choices>
+      <choices correct='false'> Adamant </choices>
+
+   </question>
+
+   <question>
+
+      <text> What is the status of Canada</text>
+      <choices correct='false'> Kingdom </choices>
+      <choices correct='true'> Dominion </choices>
+      <choices correct='false'> Commonwealth</choices>
+      <choices correct='false'> Republic </choices>
+
+   </question>
+
+   <question>
+
+      <text> What is the capital of Canada ?</text>
+      <choices correct='false'> Montreal </choices>
+      <choices correct='false'> Toronto </choices>
+      <choices correct='true'> Ottawa</choices>
+      <choices correct='false'> Vancouver </choices>
+
+   </question>
+
+   <question>
+
+      <text> Who was the first president of the Canada ?</text>
+      <choices correct='false'> John Abbott </choices>
+      <choices correct='true'> John A. Macdonald </choices>
+      <choices correct='false'> Pierre Trudeau</choices>
+      <choices correct='false'> John Thompson </choices>
+
+   </question>
+
+</Questions>
+
+</quiz>
